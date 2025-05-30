@@ -1,6 +1,6 @@
 # Obsidian MCP Server
 
-[![smithery badge](https://smithery.ai/badge/obsidian-mcp)](https://smithery.ai/server/obsidian-mcp)
+### My personal changes to the upstream MCP server for Obsidian. Not hosted on NPM and probably won't work for anyone else. 
 
 An [MCP (Model Context Protocol)](https://modelcontextprotocol.io) server that enables AI assistants to interact with Obsidian vaults, providing tools for reading, creating, editing and managing notes and tags.
 
